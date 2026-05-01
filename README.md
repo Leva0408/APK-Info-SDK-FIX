@@ -107,15 +107,15 @@ Level 25 = Nougat MR1
 Level 26 = Oreo
 Level 27 = Oreo MR1
 Level 28 = Pie
-Level 29 = 10
-Level 30 = 11
-Level 31 = 12
-Level 32 = 12L
-Level 33 = 13
-Level 34 = 14
-Level 35 = 15
-Level 36 = 16
-Level 37 = 17 beta
+Level 29 = Quince Tart
+Level 30 = Red Velvet Cake
+Level 31 = Snow Cone
+Level 32 = Snow Cone
+Level 33 = Tiramisu
+Level 34 = Upside Down Cake
+Level 35 = Vanilla Ice Cream
+Level 36 = Baklava 
+Level 37 = Cinnamon Bun
 
 ```
 
